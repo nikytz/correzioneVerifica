@@ -97,3 +97,13 @@ while True: #errore di distrazione nell'ultimo avevo lasciato categoriaPiatto in
         break
     else:
         print(f"errore")
+
+''' 
+Punto 1: OK
+Punto 2: OK
+Punto 3: errore nell'aggiunta della lista, bisognava mettere una tupla
+Punto 4: OK, mancava solo la f nel print per stampare i piatti
+Punto 5: OK
+Punto 6: OK, errore di distrazione nell'inserimento della categoria del piatto, ho lasciato categoriaPiatto invece del categoriaPiatto3 
+'''
+
